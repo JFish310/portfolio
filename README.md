@@ -12,14 +12,20 @@ https://muse-academy.com/
 
 Twitterにて「from:JFish_310 #学習記録」で検索をかけると、履歴が全て出てきます。  
 
+週2～4日、9時～14時30分くらいの稼働で、求職中です。
 
 ## スキル
 - HTML/CSS（FLOCSS設計・Sassでコーディングを行っています）
-- jQuery（まだまだ弱い）
-- GitHub
-- gulp　※ Works参照
-- C#、SQL（10年以上現場を離れていますが、業務系システムの開発・保守管理をしていました）  
+- jQuery（まだまだ勉強中）
+- GitHub　※issue番号毎にブランチを切り、pull requestでレビューからmergeまで行えます。
+- gulp
+- C#、SQL（10年以上現場を離れていますが、2年くらい業務系システムの開発・保守管理をしていた元SEです）  
 
+## Works
+計2件
+- 下層ページのマークアップ（2021年6月）
+- サイト制作（マークアップチームとして、コンポーネントの量産を中心に。2021年8月～12月）
+    - gulpで構築。GitHubで進捗・ソースコード管理し、レビューも行う。  
 
 ## Practice
 以下、取り組んだ順に記載。
@@ -44,17 +50,8 @@ https://github.com/JFish310/hamburger-site
 https://github.com/JFish310/hamburger-site-wp
 - （一時休止中。上記をgulpに対応させてから、改めて再開する予定）
 
-### Udemy WordPress開発マスター講座（非公開中）
+### Udemy WordPress開発マスター講座（非公開）
 https://github.com/JFish310/Udemy-WordPress
-- 現在取り組み中（セクション4-41）
+- 現在取り組み中（セクション4まで終了）
 
-
-## Works
-計2件
-- 下層ページのマークアップ（2021年6月）
-- サイト制作（マークアップチームとして、コンポーネントの量産を中心に。2021年8月～12月）
-    - gulpで構築。GitHubで管理し、レビューも行う。
-    ※issue番号毎にブランチを切り、pull requestでレビューからmergeまで行いました。
-
-
-最終更新日 2022.3.3
+最終更新日 2022.3.4
