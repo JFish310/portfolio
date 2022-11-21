@@ -53,7 +53,7 @@ https://github.com/JFish310/hamburger-site
 https://github.com/JFish310/hamburger-site-wp
 - （一時休止中。上記をgulpに対応させてから、改めて再開する予定）
 
-### Udemy WordPress開発マスター講座（非公開）
+### Udemy WordPress開発マスター講座
 https://github.com/JFish310/Udemy-WordPress
 - 現在取り組み中（セクション4まで終了、こちらのリポジトリは非公開）
 
