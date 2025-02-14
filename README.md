@@ -9,11 +9,11 @@ DartSassに対応させなければならなくなったため、
 
 2021年5月から、ミューズアカデミーのコミュニティ生として入会。  
 2022年3月から、アカデミー生になり、Webデザインコース、ライティングコースを中心に受講開始。  
-現在、ミューズアカデミーのサービスは終了。
+現在、ミューズアカデミーのサービスは終了。  
 https://muse-academy.com/  
 
 X（旧Twitter）にて「from:JFish_310 #学習記録」で検索をかけると、今までの学習記録の履歴が全て出てきます。  
-https://twitter.com/JFish_310　　
+https://twitter.com/JFish_310  
 
 平日中心に、週2～3日、10時～14時くらいで稼働可。  
 
@@ -56,7 +56,7 @@ https://github.com/JFish310/hamburger-site-wp
 
 ### Udemy WordPress開発マスター講座
 https://github.com/JFish310/Udemy-WordPress
-- 現在中段中（ほとんど終了、こちらのリポジトリは非公開）
+- 現在中断（ほとんど終了、こちらのリポジトリは非公開）
 
 ### MuseaAcademyのWebデザインコース、Webライティングコースを中心に受講
 
