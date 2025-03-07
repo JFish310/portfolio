@@ -23,7 +23,7 @@ https://twitter.com/JFish_310
 - jQuery（経験は浅い）
 - GitHub　※issue番号毎にブランチを切り、pull requestでレビューからmergeまで行えます。
 - gulp
-- C#、SQL（2008～2009年に勤務していたので、15年以上現場を離れていますが、2年くらい業務系システムの開発、ECサイトのバックエンド保守管理をしていた元SEです）  
+- C#、SQL（2007～2009年に勤務していたので、15年以上現場を離れていますが、業務系システム開発とECサイトのバックエンド保守管理を合わせて2年くらいしていた元SEです）  
 
 ## Works
 計2件
@@ -64,4 +64,4 @@ https://github.com/JFish310/Udemy-WordPress
 WordPressテーマ「SWELL」を使用し、2022.10.28に個人ブログを開設。  
 https://jfish10.com/
 
-最終更新日 2025.2.14
+最終更新日 2025.03.07
